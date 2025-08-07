@@ -1,0 +1,15 @@
+C:\Users\Awuley\dcit218-assigment2-11337494\dcit318-assignment2-11337494\AbstractClassDemo\bin\Debug\net9.0\AbstractClassDemo.exe
+C:\Users\Awuley\dcit218-assigment2-11337494\dcit318-assignment2-11337494\AbstractClassDemo\bin\Debug\net9.0\AbstractClassDemo.deps.json
+C:\Users\Awuley\dcit218-assigment2-11337494\dcit318-assignment2-11337494\AbstractClassDemo\bin\Debug\net9.0\AbstractClassDemo.runtimeconfig.json
+C:\Users\Awuley\dcit218-assigment2-11337494\dcit318-assignment2-11337494\AbstractClassDemo\bin\Debug\net9.0\AbstractClassDemo.dll
+C:\Users\Awuley\dcit218-assigment2-11337494\dcit318-assignment2-11337494\AbstractClassDemo\bin\Debug\net9.0\AbstractClassDemo.pdb
+C:\Users\Awuley\dcit218-assigment2-11337494\dcit318-assignment2-11337494\AbstractClassDemo\obj\Debug\net9.0\AbstractClassDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Awuley\dcit218-assigment2-11337494\dcit318-assignment2-11337494\AbstractClassDemo\obj\Debug\net9.0\AbstractClassDemo.AssemblyInfoInputs.cache
+C:\Users\Awuley\dcit218-assigment2-11337494\dcit318-assignment2-11337494\AbstractClassDemo\obj\Debug\net9.0\AbstractClassDemo.AssemblyInfo.cs
+C:\Users\Awuley\dcit218-assigment2-11337494\dcit318-assignment2-11337494\AbstractClassDemo\obj\Debug\net9.0\AbstractClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\Awuley\dcit218-assigment2-11337494\dcit318-assignment2-11337494\AbstractClassDemo\obj\Debug\net9.0\AbstractClassDemo.sourcelink.json
+C:\Users\Awuley\dcit218-assigment2-11337494\dcit318-assignment2-11337494\AbstractClassDemo\obj\Debug\net9.0\AbstractClassDemo.dll
+C:\Users\Awuley\dcit218-assigment2-11337494\dcit318-assignment2-11337494\AbstractClassDemo\obj\Debug\net9.0\refint\AbstractClassDemo.dll
+C:\Users\Awuley\dcit218-assigment2-11337494\dcit318-assignment2-11337494\AbstractClassDemo\obj\Debug\net9.0\AbstractClassDemo.pdb
+C:\Users\Awuley\dcit218-assigment2-11337494\dcit318-assignment2-11337494\AbstractClassDemo\obj\Debug\net9.0\AbstractClassDemo.genruntimeconfig.cache
+C:\Users\Awuley\dcit218-assigment2-11337494\dcit318-assignment2-11337494\AbstractClassDemo\obj\Debug\net9.0\ref\AbstractClassDemo.dll
